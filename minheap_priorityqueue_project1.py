@@ -1,6 +1,4 @@
 '''
-Brya Cota
-CSC310
 This project implements an array-based heap from scratch. We then implement a priority queue from said heap.
 A driver method is also demonstrated to ensure the heap and priority queue work.
 '''
