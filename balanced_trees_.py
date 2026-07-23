@@ -1,6 +1,5 @@
 '''
 Brya Cota
-CSC310
 This project is a self-balancing binary search tree built from the ground up and divided into 2 parts.
 Part 1: Implement a Standard Binary Search Tree (BST) (50 points)
 Part 2: Extend it to a Self-Balancing Tree (AVL)
