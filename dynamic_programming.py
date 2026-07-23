@@ -1,4 +1,4 @@
-# {DYNAMICPROGRAMMING] Write a function that computes the nth Fibonacci number using memoization.
+# The method below omputes the nth Fibonacci number using memoization.
 def fibonacci(n, memo = None):
     # Creating empty dictionary to store and reuse results
     if memo is None:
@@ -18,7 +18,7 @@ def fibonacci(n, memo = None):
 
 print(fibonacci(10))
 
-# [DYNAMICPROGRAMMING] Write a bottom-up dynamic programming function for Fibonacci.
+# The method below is an example of the bottom-up dynamic programming function for Fibonacci.
 def fibonacci_bottom_up(n):
     # Initialize list from 0 to n+1
     table = [0] * (n + 1)
