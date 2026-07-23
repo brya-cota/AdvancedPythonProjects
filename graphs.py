@@ -1,6 +1,5 @@
 '''
 Brya Cota
-CSC310
 In this project, I will build a basic Graph data structure from scratch and then use AI to generate implementations for
 printing the graph, graph traversal/search, and one advanced graph algorithm. The goal is to practice designing a core
 data structure while learning how to effectively prompt, understand, integrate, test, and debug AI-generated code.
