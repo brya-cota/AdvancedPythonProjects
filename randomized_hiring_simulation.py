@@ -1,6 +1,5 @@
 '''
 Brya Cota
-CSC310
 This program will simulate the hiring problem using randomized algorithms. Implementations: shuffle to randomize
 candidate order, apply the hire-if-better rule, and compare the average numbers of hires from your simulation to the
 Harmonic Hn.
