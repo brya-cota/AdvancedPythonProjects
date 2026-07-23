@@ -4,7 +4,7 @@ straight line (collinear).  Do do this, we check if the cross product CP is:
 	> 0 → left turn (counter-clockwise)
     < 0 → right turn (clockwise)
     = 0→ collinear
-Write a program or method called orient_points (or orientPoints) that reads a file containing three points
+The program below reads a file containing three points
 (one per line, x y per line) and prints the points followed by exactly one of the words LEFT, RIGHT, or COLLINEAR
 on a single line of stdout.
 '''
